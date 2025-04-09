@@ -46,12 +46,3 @@
   👉 [Herramientas para investigar](https://sites.google.com/view/eilein/referenciando-usables/para-investigar) – Plantillas de Canvas, guías y referencias para gestionar y desarrollar tu investigación.
 
   *(Se irán agregando más asignaturas y contenidos próximamente / More courses and content coming soon.)*
-
----
-
-### ⚡ Dato curioso / Fun fact:  
-  - En otra vida pensé dedicarme al deporte, la computación o la música.  
-  Ahora canalizo esa energía analizando sistemas y tocando metadatos como si fueran partituras. 🎼  
-   
-  - In another life, I thought I’d end up in sports, computing, or music.  
-  Now I channel that energy into analyzing systems and playing with metadata like it’s sheet music. 🎶
