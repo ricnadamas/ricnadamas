@@ -11,9 +11,12 @@
 ### 🔭 Colaboro con / I collaborate with:  
   - [Open Science Lab – UC3M](https://opensciencelab.uc3m.es)  
   - [Fundación OpenLab Ecuador](https://openlab.ec)  
-  - [Open Science Monitoring Initiative (OSMI) – WG1 & WG2](https://open-science-monitoring.org)  
+  - Open Science Monitoring Initiative (OSMI):  
+    - [WG1 – Scoping the Needs of Open Science Monitoring](https://open-science-monitoring.org/working-groups/wg1-scoping-the-needs-of-open-science-monitoring/)  
+    - [WG4 – Shared Resources and Infrastructure to Analyze Scholarly Outputs](https://open-science-monitoring.org/working-groups/wg4-shared-resources-and-infrastructure-to-analyze-scholarly-outputs/)  
+  - [Barcelona Declaration on Open Research Information – WG7](https://barcelona-declaration.org)
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
-  - [FORCE11 Metadata Working Group](https://force11.org)
+  - [FORCE11 Metadata Working Group](https://force11.org)  
  
 ---
 
