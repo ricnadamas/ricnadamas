@@ -4,7 +4,7 @@
 - Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interedado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.   
 - Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment. 
 
-- 📄 CV en línea / Online CV: [Google Docs](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing) *(actualiza el enlace si es necesario)*
+- 📄 CV en línea / Online CV: [Google Docs](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing)
 
 ---
 
