@@ -16,13 +16,20 @@
     - [WG4 – Shared Resources and Infrastructure to Analyze Scholarly Outputs](https://open-science-monitoring.org/working-groups/wg4-shared-resources-and-infrastructure-to-analyze-scholarly-outputs/)  
   - [Barcelona Declaration on Open Research Information – WG7](https://barcelona-declaration.org)
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
-  - [FORCE11 Metadata Working Group](https://force11.org)  
+  - [FORCE11 Metadata Working Group](https://force11.org)
  
 ---
 
-### 👯 Buscando colaborar en... / I’m looking to collaborate on...  
-  - Metainvestigación, planes de gestión de datos y software, implementación y evaluación de prácticas de ciencia abierta, evaluación de la investigación - indicadores alternativos y adopción institucional de prácticas FAIR. 
-  - Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment - alternative indicators, and institutional adoption of FAIR practices.
+### 👯 Buscando colaborar en... / I’m looking to collaborate on...
+
+- Metainvestigación, planes de gestión de datos y software, implementación y evaluación de prácticas de ciencia abierta, evaluación de la investigación – indicadores alternativos y adopción institucional de prácticas FAIR.  
+- Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment – alternative indicators, and institutional adoption of FAIR practices.
+
+También me interesa co-crear guías y documentos orientadores para ciencia abierta, como por ejemplo:  
+/  
+I’m also interested in co-creating guides and policy-oriented documents for open science, such as:  
+👉 [Guía de Referencia FAIR (en desarrollo)](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md)
+
 ---
 
 ### 📫 Cómo contactarme / How to reach me:  
