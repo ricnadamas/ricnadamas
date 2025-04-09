@@ -35,12 +35,15 @@
 
 #### 📚 Objetos de docencia / Teaching objects:
 
-  - En este espacio encontrarás materiales y recursos dirigidos a mis estudiantes, incluyendo presentaciones, apuntes, guías y enlaces útiles.  
-  
-  - Here you’ll find materials and resources for my students, including presentations, notes, guides, and useful links.
+- En este espacio encontrarás recursos de docencia y presentaciones académicas, junto con materiales dirigidos específicamente a mis estudiantes, como apuntes, guías y enlaces útiles.  
 
-  👉 [Biología UCSH 2025](https://sites.google.com/view/eilein/docencia/biolog%C3%ADa-ucsh-2025) – Presentaciones, guías de estudio y referencias para las clases de Biología en la UCSH.
-  
-  👉 [Herramientas para investigar](https://sites.google.com/view/eilein/referenciando-usables/para-investigar) – Plantillas de Canvas, guías y referencias para gestionar y desarrollar tu investigación.
+- Here you’ll find teaching-related resources and academic presentations, along with materials specifically for my students, such as notes, guides, and useful links.
 
-  *(Se irán agregando más asignaturas y contenidos próximamente / More courses and content coming soon.)*
+- Ciencia Abierta
+  - 👉 [Slides de presentaciones en congresos](https://osf.io/cdv93/files/osfstorage?view_only=)  
+
+- Pregrado - Postgrado
+  - 👉 [Herramientas para investigar](https://sites.google.com/view/eilein/referenciando-usables/para-investigar) – Plantillas de Canvas, guías y referencias para gestionar y desarrollar tu investigación.
+  - 👉 [Biología UCSH 2025](https://sites.google.com/view/eilein/docencia/biolog%C3%ADa-ucsh-2025) – Presentaciones, guías de estudio y referencias para las clases de Biología en la UCSH.
+ 
+---
