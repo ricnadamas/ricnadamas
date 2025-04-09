@@ -33,14 +33,6 @@
 ### 🧬 Identidad de investigador / Researcher identity:  
   - [ORCID](https://orcid.org/0000-0002-2544-587X)  
   - [OpenAlex](https://openalex.org/A5077204313)
----
-
-### ⚡ Dato curioso / Fun fact:  
-  - En otra vida pensé dedicarme al deporte, la computación o la música.  
-  Ahora canalizo esa energía analizando sistemas y tocando metadatos como si fueran partituras. 🎼  
-   
-  - In another life, I thought I’d end up in sports, computing, or music.  
-  Now I channel that energy into analyzing systems and playing with metadata like it’s sheet music. 🎶
 
 ---
 
@@ -50,6 +42,16 @@
   - Here you’ll find materials and resources for my students, including presentations, notes, guides, and useful links.
 
   👉 [Biología UCSH 2025](https://sites.google.com/view/eilein/docencia/biolog%C3%ADa-ucsh-2025) – Presentaciones, guías de estudio y referencias para las clases de Biología en la UCSH.
+  
+  👉 [Herramientas para investigar](https://sites.google.com/view/eilein/referenciando-usables/para-investigar) – Plantillas de Canvas, guías y referencias para gestionar y desarrollar tu investigación.
 
   *(Se irán agregando más asignaturas y contenidos próximamente / More courses and content coming soon.)*
 
+---
+
+### ⚡ Dato curioso / Fun fact:  
+  - En otra vida pensé dedicarme al deporte, la computación o la música.  
+  Ahora canalizo esa energía analizando sistemas y tocando metadatos como si fueran partituras. 🎼  
+   
+  - In another life, I thought I’d end up in sports, computing, or music.  
+  Now I channel that energy into analyzing systems and playing with metadata like it’s sheet music. 🎶
