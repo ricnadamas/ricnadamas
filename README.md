@@ -37,7 +37,6 @@
 #### 📚 Objetos de docencia / Teaching objects:
 
 - En este espacio encontrarás recursos de docencia y presentaciones académicas, junto con materiales dirigidos específicamente a mis estudiantes, como apuntes, guías y enlaces útiles.  
-
 - Here you’ll find teaching-related resources and academic presentations, along with materials specifically for my students, such as notes, guides, and useful links.
 
 - Ciencia Abierta
