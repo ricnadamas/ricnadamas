@@ -1,5 +1,5 @@
 ## 👋 ¡Hola! / Hello there! I’m Ricardo Hartley Belmar 
-#### 😄 Pronombres / Pronouns: él/he/him · <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align:middle;" />
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="35" style="vertical-align:middle;" /> · Pronombres / Pronouns: él/he/him · 
 
 - Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interedado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.   
 - Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment. 
