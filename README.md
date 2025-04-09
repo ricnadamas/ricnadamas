@@ -1,10 +1,10 @@
 ## 👋 ¡Hola! / Hello there! — I’m Ricardo Hartley Belmar 
-#### 😄 Pronombres / Pronouns: él/he/him
+#### 😄 Pronombres / Pronouns: él/he/him · <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align:middle;" />
 
 - Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interedado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.   
 - Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment. 
 
-- 📄 CV en línea / Online CV: [Google Docs](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing)
+- 📄 CV: [Link](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing)
 
 ---
 
@@ -18,7 +18,7 @@
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
   - [FORCE11 Metadata Working Group](https://force11.org)
 
-### También me interesa generar guías y documentos orientadores para ciencia abierta / I’m also interested in creating guides and policy-oriented documents for open science:
+### 🧾 También me interesa generar guías y documentos orientadores para ciencia abierta / I’m also interested in creating guides and policy-oriented documents for open science:
 
 - 👉 [Guía de Referencia FAIR (en desarrollo)](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md)  
 - 👉 [Orientación para la trazabilidad de objetos digitales de investigación](https://github.com/ricnadamas/docs/blob/main/OpenScience/traceabilityda.md)
