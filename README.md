@@ -18,7 +18,7 @@
 
 #### 🔭 Colaboro con / I collaborate with:  
 
-  - [Open Science Lab – UC3M](https://opensciencelab.uc3m.es)  
+  - [Open Science Lab – Universidad Carlos III de Madrid](https://opensciencelab.uc3m.es)  
   - [Fundación OpenLab Ecuador](https://openlab.ec)  
   - Open Science Monitoring Initiative (OSMI):  
     - [WG1 – Scoping the Needs of Open Science Monitoring](https://open-science-monitoring.org/working-groups/wg1-scoping-the-needs-of-open-science-monitoring/)  
