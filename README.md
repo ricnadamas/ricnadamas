@@ -4,7 +4,7 @@
 - Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interedado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.   
 - Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment. 
 
-- 📄 CV: [Link](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing)  · ✉️ rtleyb at gmail dot com · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex](https://openalex.org/A5077204313)
+- 📄 CV: [Link](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=sharing) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex](https://openalex.org/A5077204313)
 
 ---
 
