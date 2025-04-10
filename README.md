@@ -30,7 +30,7 @@
 #### 🧾 También me interesa generar guías y documentos orientadores para ciencia abierta / I’m also interested in creating guides and policy-oriented documents for open science:
 
 - 👉 [Guía de Referencia FAIR (en desarrollo)](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md)  
-- 👉 [Research Digital Object Traceability Guidelines](https://github.com/ricnadamas/docs/blob/main/OpenScience/traceabilityda.md)
+- 👉 [Research Object Traceability Framework](https://github.com/ricnadamas/docs/blob/main/OpenScience/traceabilityda.md)
 
 ---
 
