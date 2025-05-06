@@ -9,7 +9,7 @@
 
 ---
 
-#### 👯 Buscando colaborar en... / I’m looking to collaborate on...
+#### 🔍 Interesado en trabajar en... / Interested in working on...
 
 - Metainvestigación, planes de gestión de datos y software, implementación y evaluación de prácticas de ciencia abierta, evaluación de la investigación – indicadores alternativos y adopción institucional de prácticas FAIR.  
 - Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment – alternative indicators, and institutional adoption of FAIR practices.
