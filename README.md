@@ -14,23 +14,18 @@
 #### 🎓 Formación especializada clave / Key Specialized Training
 
 - Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
-
   Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
 
 - Realicé el curso **Essentials 4 Data Support**, impartido por **Research Data Netherlands (RDNL)**, centrado en principios FAIR, calidad de metadatos, compartición de datos y diseño de planes de gestión de datos.  
-
   Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on FAIR principles, metadata quality, data sharing, and robust data management planning.  
 
 - Participé en el curso **CWTS Scientometrics Summer School (2020, Universidad de Leiden)**, un curso intensivo de 75 horas sobre cienciometría, indicadores bibliométricos, flujos de conocimiento y evaluación de la investigación.  
-
   Participated in the **CWTS Scientometrics Summer School (2020, Leiden University)**, a 75-hour intensive course on scientometrics, bibliometric indicators, knowledge flows, and research evaluation.
 
 - Completé varios cursos en el marco del **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, incluyendo gobernanza de la IA, reproducibilidad, datos FAIR, y visualización de datos en R y D3.js.  
-
   Completed multiple tracks at the **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, including AI governance, reproducibility, FAIR data, and data visualization in R and D3.js.
 
 - Realicé la **certificación DataCite Core Training (2024)**, enfocada en buenas prácticas de metadatos, uso de PIDs e integración de repositorios con la infraestructura de DataCite.  
-
   Completed the **DataCite Certified Core Training (2024)**, focused on metadata best practices, the use of PIDs, and repository integration with the DataCite infrastructure.
 
 ---
