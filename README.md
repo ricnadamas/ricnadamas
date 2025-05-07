@@ -13,14 +13,14 @@
 
 #### 🎓 Formación continua / Ongoing training (Selection)
 
-- 🧩 Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
-- 🧩 Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
+- Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
+- Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
 
-- 📘 Realicé el curso **Essentials 4 Data Support**, impartido por **Research Data Netherlands (RDNL)**, centrado en apoyar a investigadores en el almacenamiento, gestión, archivo y compartición de datos de investigación.  
-- 📘 Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on supporting researchers in storing, managing, archiving, and sharing their research data.
+- Realicé el curso **Essentials 4 Data Support**, impartido por **Research Data Netherlands (RDNL)**, centrado en apoyar a investigadores en el almacenamiento, gestión, archivo y compartición de datos de investigación.  
+- Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on supporting researchers in storing, managing, archiving, and sharing their research data.
 
-- 🧠 Participé en el curso **Forensic Scientometrics**, centrado en el análisis de integridad científica mediante trazabilidad de metadatos y métricas abiertas.  
-- 🧠 Participated in the **Forensic Scientometrics** course, focused on safeguarding research integrity through metadata traceability and open metrics.
+- Participé en el curso **Forensic Scientometrics**, centrado en el análisis de integridad científica mediante trazabilidad de metadatos y métricas abiertas.  
+- Participated in the **Forensic Scientometrics** course, focused on safeguarding research integrity through metadata traceability and open metrics.
 
 ---
 
