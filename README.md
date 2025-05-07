@@ -1,11 +1,26 @@
 ## 👋 ¡Hola! / I’m Ricardo Hartley Belmar 
 #### <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align: middle; margin-right: 8px;" /> · Pronombres / Pronouns: él/he/him</h4>
 
+- Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interesado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.  
+- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment.
 
-- Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interesado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.   
-- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment. 
+- Lideré el proyecto **InES Ciencia Abierta** (Universidad Central de Chile, 2021–2024), que desarrolló capacidades institucionales en gestión de datos, evaluación y trazabilidad de productos científicos.  
+- I led the **InES Open Science** project (Universidad Central de Chile, 2021–2024), which developed institutional capacities for data management, evaluation, and research output traceability.
 
 - 📄 [Brief curriculum vitae](https://docs.google.com/document/d/1S3UwXP_em17aMeoEodq1xexQ-PgyJBeP9n3v2gxIx3g/edit?usp=sharing) · [Detailed curriculum vitae](https://docs.google.com/document/d/1a3fn09eBj47QuD2CmCYOhYb-eeu5DEeHKggPJnGZW1w/edit?usp=share_link) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex Profile](https://openalex.org/A5077204313)
+
+---
+
+#### 🎓 Formación continua / Ongoing training (Selection)
+
+- 🧩 Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
+- 🧩 Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
+
+- 📘 Realicé el curso **Essentials 4 Data Support**, impartido por **Research Data Netherlands (RDNL)**, centrado en apoyar a investigadores en el almacenamiento, gestión, archivo y compartición de datos de investigación.  
+- 📘 Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on supporting researchers in storing, managing, archiving, and sharing their research data.
+
+- 🧠 Participé en el curso **Forensic Scientometrics**, centrado en el análisis de integridad científica mediante trazabilidad de metadatos y métricas abiertas.  
+- 🧠 Participated in the **Forensic Scientometrics** course, focused on safeguarding research integrity through metadata traceability and open metrics.
 
 ---
 
