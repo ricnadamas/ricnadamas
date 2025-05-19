@@ -63,8 +63,5 @@
 - Ciencia Abierta
   - 👉 [Slides de presentaciones en congresos](https://osf.io/cdv93/files/osfstorage?view_only=)  
 
-- Pregrado - Postgrado
-  - 👉 [Herramientas para investigar](https://sites.google.com/view/eilein/referenciando-usables/para-investigar) – Plantillas de Canvas, guías y referencias para gestionar y desarrollar tu investigación.
-  - 👉 [Biología UCSH 2025](https://sites.google.com/view/eilein/referenciando-usables/biolog%C3%ADa-ucsh-2025) – Presentaciones, guías de estudio y referencias para las clases de Biología en la UCSH.
  
 ---
