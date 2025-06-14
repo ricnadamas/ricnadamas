@@ -7,7 +7,7 @@
 
 ---
 
-#### 📝 Recent Publications & Columns
+#### 📝 2025 Publications, Guides & Opinion Columns
 
 - **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
   [📄 English – Zenodo](https://doi.org/10.5281/zenodo.15650922) · [📄 Spanish – OSF](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed)*  
