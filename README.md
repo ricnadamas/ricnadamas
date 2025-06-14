@@ -1,11 +1,9 @@
 ## 👋 ¡Hola! / I’m Ricardo Hartley Belmar 
 #### <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align: middle; margin-right: 8px;" /> · Pronombres / Pronouns: él/he/him</h4>
 
-- Curioso, autodidacta y apasionado por la **Ciencia Abierta**, los **Datos Abiertos** y la mejora de las infraestructuras de información académica. Interesado en trabajar proyectos sobre gobernanza de la ciencia abierta, trazabilidad de productos de investigación y evaluación responsable.  
-  Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment.
+- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment.
 
-- Lideré el proyecto **InES Ciencia Abierta** (Universidad Central de Chile, 2021–2024), que desarrolló capacidades institucionales en gestión de datos, evaluación y trazabilidad de productos científicos.  
-  I led the **InES Open Science** project (Universidad Central de Chile, 2021–2024), which developed institutional capacities for data management, evaluation, and research output traceability.
+- I led the **InES Open Science** project (Universidad Central de Chile, 2021–2024), which developed institutional capacities for data management, evaluation, and research output traceability.
 
 - 📄 [Brief curriculum vitae](https://docs.google.com/document/d/1S3UwXP_em17aMeoEodq1xexQ-PgyJBeP9n3v2gxIx3g/edit?usp=sharing) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex Profile](https://openalex.org/A5077204313)
 
