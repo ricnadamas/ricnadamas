@@ -11,6 +11,28 @@
 
 ---
 
+#### 📝 Publicaciones y columnas recientes / Recent Publications & Columns
+
+- **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
+  [📄 English – Zenodo](https://doi.org/10.5281/zenodo.15650922) · [📄 Spanish – OSF](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed)*
+
+- **Abedrapo Rosen, I., Sánchez Núñez, P., & Hartley Belmar, R.** (2025, March 19). *Open Science governance: the role of persistent identifiers and metadata standards.*  
+  [📄 OSF Preprints](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed; submitted to MetaResearch Open Review – MetaROR, April 7, 2025)*
+
+- **Abedrapo Rosen, I., Carrasco, R., Catalán Zavala, A., Díaz Cornejo, I., Escapil-Inchauspé, P., Hartley Belmar, R., Keim, A., Kölbl, M., Paredes Lizama, Á., Quiroz-Valenzuela, S., Rivera-Cornejo, M., & Roa, R.** (2025). *Estrategia para la Implementación de una Política de Datos FAIR en Chile.* **Data Observatory Foundation.**  
+  [📄 DOI:10.71481/7XPJ-CV52](https://doi.org/10.71481/7XPJ-CV52) *(Non-peer reviewed)*
+
+- **Hartley Belmar, R., et al.** (2025). *FAIR: Guía de Referencia General.*  
+  [📘 GitHub Repository](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md) *(Non-peer reviewed; developed within GO FAIR Chile initiative)*
+
+- **Paredes, Á., Uribe, P., & Hartley, R.** (2025). *Acuerdo de Transferencia de Datos (DTA).* **Data Observatory Foundation.**  
+  [📄 DOI:10.71481/cta5-q522](https://doi.org/10.71481/cta5-q522) *(Non-peer reviewed)*
+
+- **Hartley Belmar, R.** (2025). *The Domino Effect of Faulty Metadata: Why Open Source Analysis Demands Metadata Vigilance.*  
+  [📝 Forensic Scientometrics Blog](https://fosci.substack.com/p/the-domino-effect-of-faulty-metadata) *(Replace with actual link)*
+
+---
+
 #### 🎓 Formación especializada clave / Key Specialized Training
 
 - Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
