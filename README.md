@@ -23,7 +23,7 @@
   [📄 DOI:10.71481/7XPJ-CV52](https://doi.org/10.71481/7XPJ-CV52) *(Non-peer reviewed)*
 
 - **Hartley Belmar, R., et al.** (2025). *FAIR: Guía de Referencia General.*  
-  [📘 GitHub Repository](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md) *(Non-peer reviewed; developed within GO FAIR Chile initiative)*
+  [📘 GitHub Repository](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md) *(Non-peer reviewed; developed to support the GO FAIR Chile initiative)*
 
 - **Paredes, Á., Uribe, P., & Hartley, R.** (2025). *Acuerdo de Transferencia de Datos (DTA).* **Data Observatory Foundation.**  
   [📄 DOI:10.71481/cta5-q522](https://doi.org/10.71481/cta5-q522) *(Non-peer reviewed)*
