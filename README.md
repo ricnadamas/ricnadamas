@@ -11,7 +11,7 @@
 
 ---
 
-#### 📝 Publicaciones y columnas recientes / Recent Publications & Columns
+#### 📝 Recent Publications & Columns
 
 - **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
   [📄 English – Zenodo](https://doi.org/10.5281/zenodo.15650922) · [📄 Spanish – OSF](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed)*
@@ -33,33 +33,27 @@
 
 ---
 
-#### 🎓 Formación especializada clave / Key Specialized Training
+#### 🎓 Key Specialized Training
 
-- Actualmente participo en el curso **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, parte del programa **Skills4EOSC 2025**.  
-  Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
+- Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
 
-- Realicé el curso **Essentials 4 Data Support**, impartido por **Research Data Netherlands (RDNL)**, centrado en principios FAIR, calidad de metadatos, compartición de datos y diseño de planes de gestión de datos.  
-  Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on FAIR principles, metadata quality, data sharing, and robust data management planning.  
+- Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on FAIR principles, metadata quality, data sharing, and robust data management planning.  
 
-- Participé en el curso **CWTS Scientometrics Summer School (2020, Universidad de Leiden)**, un curso intensivo de 75 horas sobre cienciometría, indicadores bibliométricos, flujos de conocimiento y evaluación de la investigación.  
-  Participated in the **CWTS Scientometrics Summer School (2020, Leiden University)**, a 75-hour intensive course on scientometrics, bibliometric indicators, knowledge flows, and research evaluation.
+- Participated in the **CWTS Scientometrics Summer School (2020, Leiden University)**, a 75-hour intensive course on scientometrics, bibliometric indicators, knowledge flows, and research evaluation.
 
-- Completé varios cursos en el marco del **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, incluyendo gobernanza de la IA, reproducibilidad, datos FAIR, y visualización de datos en R y D3.js.  
-  Completed multiple tracks at the **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, including AI governance, reproducibility, FAIR data, and data visualization in R and D3.js.
+- Completed multiple tracks at the **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, including AI governance, reproducibility, FAIR data, and data visualization in R and D3.js.
 
-- Realicé la **certificación DataCite Core Training (2024)**, enfocada en buenas prácticas de metadatos, uso de PIDs e integración de repositorios con la infraestructura de DataCite.  
-  Completed the **DataCite Certified Core Training (2024)**, focused on metadata best practices, the use of PIDs, and repository integration with the DataCite infrastructure.
+- Completed the **DataCite Certified Core Training (2024)**, focused on metadata best practices, the use of PIDs, and repository integration with the DataCite infrastructure.
 
 ---
 
 #### 🔍 Interesado en trabajar en... / Interested in working on...
 
-- Metainvestigación, planes de gestión de datos y software, implementación y evaluación de prácticas de ciencia abierta, evaluación de la investigación – indicadores alternativos y adopción institucional de prácticas FAIR.  
-  Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment – alternative indicators, and institutional adoption of FAIR practices.
+- Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment – alternative indicators, and institutional adoption of FAIR practices.
 
 ---
 
-#### 🔭 Colaboro con / I collaborate with:  
+#### 🔭 I collaborate with:  
 
   - [Open Science Lab – Universidad Carlos III de Madrid](https://opensciencelab.uc3m.es)  
   - [Fundación OpenLab Ecuador](https://openlab.ec)  
@@ -70,20 +64,9 @@
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
   - [FORCE11 Metadata Working Group](https://force11.org)
 
-#### 🧾 También me interesa generar guías y documentos orientadores para ciencia abierta / I’m also interested in creating guides and policy-oriented documents for open science:
+#### 🧾 I’m also interested in creating guides and policy-oriented documents for open science:
 
 - 👉 [Guía de Referencia FAIR (en desarrollo)](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md)  
 - 👉 [Research Object Traceability Framework](https://github.com/ricnadamas/docs/blob/main/OpenScience/traceabilityda.md)
 
----
-
-#### 📚 Presentaciones y otros / Presentations and more:
-
-- En este espacio encontrarás recursos de docencia y presentaciones académicas, junto con materiales dirigidos específicamente a mis estudiantes, como apuntes, guías y enlaces útiles.  
-  Here you’ll find teaching-related resources and academic presentations, along with materials specifically for my students, such as notes, guides, and useful links.
-
-- Ciencia Abierta
-  - 👉 [Slides de presentaciones en congresos](https://osf.io/cdv93/files/osfstorage?view_only=)  
-
- 
 ---
