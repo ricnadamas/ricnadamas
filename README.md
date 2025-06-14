@@ -17,7 +17,7 @@
   [📄 OSF Preprints](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed; submitted to MetaResearch Open Review – MetaROR, April 7, 2025)*  
   A preprint (submitted to MetaResearch Open Review) exploring how persistent identifiers (PIDs) and metadata standards contribute to open science governance, and proposing key recommendations for enhancing transparency and traceability in scholarly communication.
 
-- **Abedrapo Rosen, I., Carrasco, R., Catalán Zavala, A., Díaz Cornejo, I., Escapil-Inchauspé, P., Hartley Belmar, R., Keim, A., Kölbl, M., Paredes Lizama, Á., Quiroz-Valenzuela, S., Rivera-Cornejo, M., & Roa, R.** (2025). *Estrategia para la Implementación de una Política de Datos FAIR en Chile.* **Data Observatory Foundation.**  
+- **Abedrapo Rosen, I., Carrasco, R., Catalán Zavala, A., Díaz Cornejo, I., Escapil-Inchauspé, P., Hartley Belmar, R., et al.** (2025). *Estrategia para la Implementación de una Política de Datos FAIR en Chile.* **Data Observatory Foundation.**  
   [📄 DOI:10.71481/7XPJ-CV52](https://doi.org/10.71481/7XPJ-CV52) *(Non-peer reviewed)*  
   A strategic document outlining a national-level roadmap to implement FAIR data principles in Chile, including policy recommendations, institutional coordination mechanisms, and enabling infrastructures.
 
