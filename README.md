@@ -65,9 +65,4 @@
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
   - [FORCE11 Metadata Working Group](https://force11.org)
 
-#### 🧾 I’m also interested in creating guides and policy-oriented documents for open science:
-
-- 👉 [Guía de Referencia FAIR (en desarrollo)](https://github.com/ricnadamas/docs/blob/main/FAIR/GuiaReferencia.md)  
-- 👉 [Research Object Traceability Framework](https://github.com/ricnadamas/docs/blob/main/OpenScience/traceabilityda.md)
-
----
+#### 🧾 I’m also interested in creating guides and policy-oriented documents for open science
