@@ -10,27 +10,26 @@
 #### 📝 2025 Publications, Guides & Opinion Columns
 
 - **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
-  https://doi.org/10.5281/zenodo.15856492 *(Non-peer reviewed)*  
+  https://doi.org/10.5281/zenodo.15856492 **(Non-peer reviewed)**  
   A practical guide for implementing the FAIR principles in research data and digital products management, with recommendations on metadata standards, licensing, evaluation tools, and domain-specific practices.
 
 - **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
-  English https://doi.org/10.5281/zenodo.15650922 · Spanish https://doi.org/10.31219/osf.io/9h564_v3 *(Non-peer reviewed)*  
+  English https://doi.org/10.5281/zenodo.15650922 · Spanish https://doi.org/10.31219/osf.io/9h564_v3 **(Non-peer reviewed)**  
   A policy document that reviews national infrastructures, regulatory frameworks, and governance mechanisms for scientific data repositories in Chile, outlining their connection to World Data System principles.
 
-- **Abedrapo Rosen, I., Sánchez Núñez, P., & Hartley Belmar, R.** (2025, March 19). *Open Science governance: the role of persistent identifiers and metadata standards.*  
-  https://doi.org/10.31219/osf.io/9h564_v3 *(Non-peer reviewed; submitted to MetaResearch Open Review – MetaROR, April 7, 2025)*  
-  A preprint (submitted to MetaResearch Open Review) exploring how persistent identifiers (PIDs) and metadata standards contribute to open science governance, and proposing key recommendations for enhancing transparency and traceability in scholarly communication.
+- **Abedrapo Rosen, I., Sánchez Núñez, P., & Hartley Belmar, R.** (2025, June 25). *Open Science governance: the role of persistent identifiers and metadata standards.*. MetaResearch Open Review – MetaROR. https://doi.org/10.31219/osf.io/9h564_v3 **(Peer reviewed; https://doi.org/10.70744/MetaROR.100.1.ea)**  
+  An article exploring how persistent identifiers (PIDs) and metadata standards contribute to open science governance, and proposing key recommendations for enhancing transparency and traceability in scholarly communication.
 
 - **Abedrapo Rosen, I., Carrasco, R., Catalán Zavala, A., Díaz Cornejo, I., Escapil-Inchauspé, P., Hartley Belmar, R., et al.** (2025). *Estrategia para la Implementación de una Política de Datos FAIR en Chile.* **Data Observatory Foundation.**  
-  https://doi.org/10.71481/7XPJ-CV52 *(Non-peer reviewed)*  
+  https://doi.org/10.71481/7XPJ-CV52 **(Non-peer reviewed)**  
   A strategic document outlining a national-level roadmap to implement FAIR data principles in Chile, including policy recommendations, institutional coordination mechanisms, and enabling infrastructures.
 
 - **Paredes, Á., Uribe, P., & Hartley, R.** (2025). *Acuerdo de Transferencia de Datos (DTA).* **Data Observatory Foundation.**  
-  https://doi.org/10.71481/cta5-q522 *(Non-peer reviewed)*  
+  https://doi.org/10.71481/cta5-q522 **(Non-peer reviewed)**  
   A model agreement designed to guide secure, ethical, and legally compliant data transfers between research institutions, with clauses adaptable to different domains and use cases.
 
 - **Hartley Belmar, R.** (2025). *The Domino Effect of Faulty Metadata: Why Open Source Analysis Demands Metadata Vigilance.*   
-  https://fosci.substack.com/p/the-domino-effect-of-faulty-metadata *(Opinion column in Forensic Scientometrics Blog)*   
+  https://fosci.substack.com/p/the-domino-effect-of-faulty-metadata **(Opinion column in Forensic Scientometrics Blog)**   
   An opinion piece reflecting on how metadata inaccuracies in open data can lead to flawed interpretations in scientometric analysis, urging greater metadata stewardship in open science workflows.
 
 ---
