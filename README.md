@@ -17,7 +17,7 @@
   English https://doi.org/10.5281/zenodo.15650922 · Spanish https://doi.org/10.31219/osf.io/9h564_v3 **(Non-peer reviewed)**  
   A policy document that reviews national infrastructures, regulatory frameworks, and governance mechanisms for scientific data repositories in Chile, outlining their connection to World Data System principles.
 
-- **Abedrapo Rosen, I., Sánchez Núñez, P., & Hartley Belmar, R.** (2025, June 25). *Open Science governance: the role of persistent identifiers and metadata standards.*. MetaResearch Open Review – MetaROR. https://doi.org/10.31219/osf.io/9h564_v3 **(Peer reviewed; https://doi.org/10.70744/MetaROR.100.1.ea)**  
+- **Abedrapo Rosen, I., Sánchez Núñez, P., & Hartley Belmar, R.** (2025, June 25). *Open Science governance: the role of persistent identifiers and metadata standards.* MetaResearch Open Review – MetaROR. https://doi.org/10.31219/osf.io/9h564_v3 **(Peer reviewed; https://doi.org/10.70744/MetaROR.100.1.ea)**  
   An article exploring how persistent identifiers (PIDs) and metadata standards contribute to open science governance, and proposing key recommendations for enhancing transparency and traceability in scholarly communication.
 
 - **Abedrapo Rosen, I., Carrasco, R., Catalán Zavala, A., Díaz Cornejo, I., Escapil-Inchauspé, P., Hartley Belmar, R., et al.** (2025). *Estrategia para la Implementación de una Política de Datos FAIR en Chile.* **Data Observatory Foundation.**  
