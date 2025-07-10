@@ -9,7 +9,7 @@
 
 #### 📝 2025 Publications, Guides & Opinion Columns
 
- **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
+- **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
   [📄 Spanish – Zenodo](https://doi.org/10.5281/zenodo.15856492) *(Non-peer reviewed)*  
   A practical guide for implementing the FAIR principles in research data and digital products management, with recommendations on metadata standards, licensing, evaluation tools, and domain-specific practices.
 
