@@ -9,6 +9,10 @@
 
 #### 📝 2025 Publications, Guides & Opinion Columns
 
+ **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
+  [📄 Spanish – Zenodo](https://doi.org/10.5281/zenodo.15856492) *(Non-peer reviewed)*  
+  A practical guide for implementing the FAIR principles in research data and digital products management, with recommendations on metadata standards, licensing, evaluation tools, and domain-specific practices.
+
 - **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
   [📄 English – Zenodo](https://doi.org/10.5281/zenodo.15650922) · [📄 Spanish – OSF](https://doi.org/10.31219/osf.io/9h564_v3) *(Non-peer reviewed)*  
   A policy document that reviews national infrastructures, regulatory frameworks, and governance mechanisms for scientific data repositories in Chile, outlining their connection to World Data System principles.
