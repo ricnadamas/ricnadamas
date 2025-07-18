@@ -13,6 +13,10 @@
   https://doi.org/10.5281/zenodo.15856492 **(Non-peer reviewed)**  
   A practical guide for implementing the FAIR principles in research data and digital products management, with recommendations on metadata standards, licensing, evaluation tools, and domain-specific practices.
 
+- **Ruz Fuenzalida, C., Abedrapo Rosen, I., Ojha, P., & Hartley Belmar, R.** (2025). *Evaluación del
+impacto de publicaciones científicas y el fomento de prácticas de Ciencia Abierta en universidades para
+la acreditación en investigación: Un análisis más allá de la indexación* **Comisión Nacional de Acreditación, Serie Estudios sobre Acreditación, Seminario Internacional Expresiones sobre la Cultura de la calidad en las instituciones de educación superior**. https://www.cnachile.cl/SiteAssets/Paginas/estudios/Seminario%20Internacional%20CNA%202024_Expresiones%20Cultura%20de%20la%20Calidad%20en%20las%20IES.pdf **(Peer reviewed)**  
+
 - **Hartley Belmar, R., & Abedrapo Rosen, I.** (2025). *Scientific Data Repository-related Policies: Chile.* **World Data System Policy Paper Series**.  
   English https://doi.org/10.5281/zenodo.15650922 · Spanish https://doi.org/10.31219/osf.io/9h564_v3 **(Non-peer reviewed)**  
   A policy document that reviews national infrastructures, regulatory frameworks, and governance mechanisms for scientific data repositories in Chile, outlining their connection to World Data System principles.
