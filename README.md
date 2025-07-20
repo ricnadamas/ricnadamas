@@ -8,6 +8,18 @@
 - 📄 [Brief curriculum vitae](https://docs.google.com/document/d/1S3UwXP_em17aMeoEodq1xexQ-PgyJBeP9n3v2gxIx3g/edit?usp=sharing) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex Profile](https://openalex.org/A5077204313)
 
 ---
+#### 🔭 I collaborate with:  
+
+  - [Open Science Lab – Universidad Carlos III de Madrid](https://opensciencelab.uc3m.es)  
+  - [Fundación OpenLab Ecuador](https://openlab.ec)  
+  - Open Science Monitoring Initiative (OSMI):  
+    - [WG1 – Scoping the Needs of Open Science Monitoring](https://open-science-monitoring.org/working-groups/wg1-scoping-the-needs-of-open-science-monitoring/)  
+    - [WG4 – Shared Resources and Infrastructure to Analyze Scholarly Outputs](https://open-science-monitoring.org/working-groups/wg4-shared-resources-and-infrastructure-to-analyze-scholarly-outputs/)  
+  - [Barcelona Declaration on Open Research Information – WG7](https://barcelona-declaration.org)
+  - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
+  - [FORCE11 Metadata Working Group](https://force11.org)
+
+---
 
 #### 📝 2025 Research outputs
 
@@ -45,14 +57,3 @@ la acreditación en investigación: Un análisis más allá de la indexación* *
   An opinion piece reflecting on how metadata inaccuracies in open data can lead to flawed interpretations in scientometric analysis, urging greater metadata stewardship in open science workflows.
 
 ---
-
-#### 🔭 I collaborate with:  
-
-  - [Open Science Lab – Universidad Carlos III de Madrid](https://opensciencelab.uc3m.es)  
-  - [Fundación OpenLab Ecuador](https://openlab.ec)  
-  - Open Science Monitoring Initiative (OSMI):  
-    - [WG1 – Scoping the Needs of Open Science Monitoring](https://open-science-monitoring.org/working-groups/wg1-scoping-the-needs-of-open-science-monitoring/)  
-    - [WG4 – Shared Resources and Infrastructure to Analyze Scholarly Outputs](https://open-science-monitoring.org/working-groups/wg4-shared-resources-and-infrastructure-to-analyze-scholarly-outputs/)  
-  - [Barcelona Declaration on Open Research Information – WG7](https://barcelona-declaration.org)
-  - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
-  - [FORCE11 Metadata Working Group](https://force11.org)
