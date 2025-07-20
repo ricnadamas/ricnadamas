@@ -1,13 +1,21 @@
 ## 👋 ¡Hola! / I’m Ricardo Hartley Belmar 
 #### <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align: middle; margin-right: 8px;" /> · Pronombres / Pronouns: él/he/him</h4>
 
-- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and improving research information infrastructures. Interested to work in projects related to open science governance, traceability of research outputs, and responsible assessment.
+- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and strengthening research information infrastructures. My work focuses on advancing **responsible research practices**, including open science governance, the traceability and reuse of research outputs, and more transparent and equitable approaches to research assessment.
+
+- I am particularly interested in **metaresearch** and in supporting the institutional adoption of **FAIR principles** and other open knowledge frameworks across disciplines and regions.
 
 - 📄 [Brief curriculum vitae](https://docs.google.com/document/d/1S3UwXP_em17aMeoEodq1xexQ-PgyJBeP9n3v2gxIx3g/edit?usp=sharing) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex Profile](https://openalex.org/A5077204313)
 
 ---
 
-#### 📝 2025 Publications, Guides & Opinion Columns
+#### 📝 2025 Research outputs
+
+- **Abedrapo Rosen, I., Ruz Fuenzalida, C., & Hartley Belmar, R.** (2025). *Análisis descriptivo de la orientación de la investigación en universidades chilenas frente a políticas de evaluación basadas en métricas de impacto (2009–2023).* **Revista Calidad en la Educación**. **(Submitted on May 19, 2025)**  
+  A descriptive study of how Chilean universities have aligned their research agendas with metric-based evaluation policies over the past fifteen years, highlighting tensions between academic autonomy, institutional incentives, and national accreditation frameworks.
+
+- **Hartley Belmar, R., Abedrapo Rosen, I., & Torres Díaz, L.** (2025). *Abrir, transformar y gobernar: hacia una Ciencia Abierta situada y equitativa en América Latina.* **Revista Internacional de Ciencia Abierta**. **(Submitted on June 12, 2025)**  
+  A critical reflection on the Latin American open science landscape, proposing a situated and equity-driven model of openness that centers local governance, epistemic diversity, and regional research policy transformation.
 
 - **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
   https://doi.org/10.5281/zenodo.15856492 **(Non-peer reviewed)**  
@@ -38,26 +46,6 @@ la acreditación en investigación: Un análisis más allá de la indexación* *
 
 ---
 
-#### 🎓 Key Specialized Training
-
-- Currently participating in the **Open Science and Research Data Management in the Social Sciences and Humanities – Train of Trainers Learning Path**, part of the **Skills4EOSC 2025** programme.
-
-- Completed the **Essentials 4 Data Support** course by **Research Data Netherlands (RDNL)**, focused on FAIR principles, metadata quality, data sharing, and robust data management planning.  
-
-- Participated in the **CWTS Scientometrics Summer School (2020, Leiden University)**, a 75-hour intensive course on scientometrics, bibliometric indicators, knowledge flows, and research evaluation.
-
-- Completed multiple tracks at the **FORCE11 Scholarly Communication Institute – FSCI (2017–2024)**, including AI governance, reproducibility, FAIR data, and data visualization in R and D3.js.
-
-- Completed the **DataCite Certified Core Training (2024)**, focused on metadata best practices, the use of PIDs, and repository integration with the DataCite infrastructure.
-
----
-
-#### 🔍 Interesado en trabajar en... / Interested in working on...
-
-- Metaresearch, data and software management plans, implementation and evaluation of open science practices, research assessment – alternative indicators, and institutional adoption of FAIR practices.
-
----
-
 #### 🔭 I collaborate with:  
 
   - [Open Science Lab – Universidad Carlos III de Madrid](https://opensciencelab.uc3m.es)  
@@ -68,5 +56,3 @@ la acreditación en investigación: Un análisis más allá de la indexación* *
   - [Barcelona Declaration on Open Research Information – WG7](https://barcelona-declaration.org)
   - [Cross-Domain Interoperability Framework (CDIF)](https://worldfair-project.eu/cdif/)  
   - [FORCE11 Metadata Working Group](https://force11.org)
-
-#### 🧾 I’m also interested in creating guides and policy-oriented documents for open science
