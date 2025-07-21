@@ -5,6 +5,8 @@
 
 - I am particularly interested in **metaresearch** and in supporting the institutional adoption of **FAIR principles** and other open knowledge frameworks across disciplines and regions.
 
+- From August to October 2025, I will be undertaking a **Short-Term Scientific Mission (STSM)** at the *Open Innovation in Science Center*, part of the **Ludwig Boltzmann Gesellschaft** in Austria.
+
 - 📄 [Brief curriculum vitae](https://docs.google.com/document/d/1S3UwXP_em17aMeoEodq1xexQ-PgyJBeP9n3v2gxIx3g/edit?usp=sharing) · [Bluesky](https://bsky.app/profile/ricardohartley.bsky.social) · [ORCID](https://orcid.org/0000-0002-2544-587X) · [OpenAlex Profile](https://openalex.org/A5077204313)
 
 ---
