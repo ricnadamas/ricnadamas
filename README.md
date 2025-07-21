@@ -1,7 +1,8 @@
 ## 👋 ¡Hola! / I’m Ricardo Hartley Belmar 
 #### <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align: middle; margin-right: 8px;" /> · Pronombres / Pronouns: él/he/him</h4>
 
-- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and strengthening research information infrastructures. My work focuses on advancing **responsible research practices**, including open science governance, the traceability and reuse of research outputs, and more transparent and equitable approaches to research assessment.
+- Curious, self-taught, and passionate about **Open Science**, **Open Data**, and strengthening research information infrastructures.  
+As a **researcher and systems enabler for open science**, my work focuses on advancing **responsible research practices**, including open science governance, the traceability and reuse of research outputs, and more transparent and equitable approaches to research assessment.
 
 - I am particularly interested in **metaresearch** and in supporting the institutional adoption of **FAIR principles** and other open knowledge frameworks across disciplines and regions.
 
