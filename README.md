@@ -29,8 +29,8 @@ As a **researcher and systems enabler for open science**, my work focuses on adv
 - **Abedrapo Rosen, I., Ruz Fuenzalida, C., & Hartley Belmar, R.** (2025). *Análisis descriptivo de la orientación de la investigación en universidades chilenas frente a políticas de evaluación basadas en métricas de impacto (2009–2023).* **Revista Calidad en la Educación**. **(Submitted on May 19, 2025)**  
   A descriptive study of how Chilean universities have aligned their research agendas with metric-based evaluation policies over the past fifteen years, highlighting tensions between academic autonomy, institutional incentives, and national accreditation frameworks.
 
-- **Hartley Belmar, R., Abedrapo Rosen, I., & Torres Díaz, L.** (2025). *Abrir, transformar y gobernar: hacia una Ciencia Abierta situada y equitativa en América Latina.* **Revista Internacional de Ciencia Abierta**. **(Submitted on June 12, 2025)**  
-  A critical reflection on the Latin American open science landscape, proposing a situated and equity-driven model of openness that centers local governance, epistemic diversity, and regional research policy transformation.
+- **Hartley Belmar, R., Abedrapo Rosen, I., & Torres Díaz, L.** (2025). *Abrir, transformar y gobernar: hacia una Ciencia Abierta situada y equitativa en Chile.* **Revista Internacional de Ciencia Abierta**. **(Bouble-blind peer review)**  
+  A critical reflection on the Chilean and Latin American open science landscape, proposing a situated, equity-driven model of openness that centers on local governance, epistemic diversity, and regional research policy transformation.
 
 - **Hartley Belmar, R., Abedrapo Rosen, I., Ojha, P., & Martinez-Ortiz, C.** (2025). *FAIR: Guía de Referencia General.* **Zenodo**.  
   https://doi.org/10.5281/zenodo.15856492 **(Non-peer reviewed)**  
