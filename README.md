@@ -1,4 +1,5 @@
-## 👋 ¡Hola! / I’m Ricardo Hartley Belmar 
+## 👋 ¡Hola! / I’m Ricardo Hartley Belmar / MSc PhD
+
 #### <h4><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Neurodiversity_Symbol.svg" alt="Símbolo de neurodiversidad" width="30" style="vertical-align: middle; margin-right: 8px;" /> · Pronombres / Pronouns: él/he/him</h4>
 
 - Curious, self-taught, and passionate about **Open Science**, **Open Data**, and strengthening research information infrastructures.  
